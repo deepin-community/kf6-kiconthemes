@@ -1,0 +1,6 @@
+usr/include/KF6/KIconThemes/
+usr/include/KF6/KIconWidgets/
+usr/lib/*/cmake/KF6IconThemes/
+usr/lib/*/libKF6IconThemes.so
+usr/lib/*/libKF6IconWidgets.so
+usr/lib/*/qt6/plugins/designer/kiconthemes6widgets.so
