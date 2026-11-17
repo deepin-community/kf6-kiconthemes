@@ -1,1 +1,2 @@
 cross.patch
+find_qt6_guiprivate_on_qt610.patch
